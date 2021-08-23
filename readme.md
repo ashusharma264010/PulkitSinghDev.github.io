@@ -2,12 +2,6 @@
  - Note :-
   - before using this template make sure you read the full instructions
   - Basic knowledge of HTML & CSS required
-## Template Insights:-
-![image](https://user-images.githubusercontent.com/71369943/112092341-4bb27b00-8bbd-11eb-8ebe-a06abb71e743.png)
-![image](https://user-images.githubusercontent.com/71369943/112092416-7270b180-8bbd-11eb-9e46-3e60951942b6.png)
-![image](https://user-images.githubusercontent.com/71369943/112092502-a1872300-8bbd-11eb-83ca-e8c1bdad7516.png)
-![image](https://user-images.githubusercontent.com/71369943/112092565-c67b9600-8bbd-11eb-822c-e2dee9506697.png)
-![image](https://user-images.githubusercontent.com/71369943/112092595-d85d3900-8bbd-11eb-9ad9-80033a6419f7.png)
 
 ### Instructions:
 - Click the button ( Use this Template ) which will redirect you to create a new repository 
