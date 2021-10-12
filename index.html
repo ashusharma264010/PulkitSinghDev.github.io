@@ -51,7 +51,25 @@
     <meta name="twitter:description" content="WebSite613116">
     <meta property="og:type" content="website">
   </head>
-  <body data-home-page="https://website613116.nicepage.io/Portfolio.html?version=b8d1d076-f2fe-45e4-a192-ca4486824c9f" data-home-page-title="Portfolio" class="u-body u-overlap u-overlap-contrast"><header class="u-clearfix u-header u-sticky u-sticky-08e7 u-header" id="sec-ebef"><div class="u-clearfix u-sheet u-sheet-1">
+  <body data-home-page="https://website613116.nicepage.io/Portfolio.html?version=b8d1d076-f2fe-45e4-a192-ca4486824c9f" data-home-page-title="Portfolio" class="u-body u-overlap u-overlap-contrast" onload="loadfun()" >
+	  
+	  <div id="loading"></div>
+	  <style>
+		  #loading {
+			  position: fixed;
+			  width="100%"
+			  height: 100vh;
+			  background #fff url("./loader.gif") no-repeat center;
+			  z-index: 999999999;
+	  </style>
+	  <script>
+	    var load = document.getElementById("loading");
+            function loadfun() {
+	       load.style.display = "none";
+	    }
+	  </script>
+	  
+	  <header class="u-clearfix u-header u-sticky u-sticky-08e7 u-header" id="sec-ebef"><div class="u-clearfix u-sheet u-sheet-1">
         
 	  <script>
 	    alert("Click on that rotating earth to see a magic!!🔥🔥 & you may click again on it to stop the magic to! 😉");
