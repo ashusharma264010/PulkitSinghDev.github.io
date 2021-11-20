@@ -1,6 +1,4 @@
-# PulkitSinghDev.tech ( v1.1 release 🟢 )
-
-![image](https://user-images.githubusercontent.com/71369943/130896725-1b43320d-19cb-45a1-ae00-5297c8f614d7.png)
+# Under constructionpage
 
 
 # Instructions for using this Portfolio as Template
